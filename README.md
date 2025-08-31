@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://adityapatil022.github.io/Minor-project/"><strong>➥ Live Demo</strong></a>
+  <a href="[https://adityapatil022.github.io/Minor-project/](https://adityapatil0122.github.io/Minor-project/)"><strong>➥ Live Demo</strong></a>
 </p>
 
 ---
