@@ -42,5 +42,5 @@ The application's logic is handled by a single JavaScript file (`script.js`).
 ### 👤 Connect with me:
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/aditya-patil-497b3224b/"> My LinkedIn</a>
 </p>
